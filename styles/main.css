@@ -9,7 +9,7 @@ body{
     padding: 0;
 }
 #background{
-    background-image: url(billboard.jpg);
+    background-image: url(/img/billboard.jpg);
     background-size: cover;
     height: 500px;
   background-position: center;
