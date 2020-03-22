@@ -8,7 +8,7 @@ body{
     margin-top: 0;
     padding: 0;
 }
-#div1{
+#background{
     background-image: url(billboard.jpg);
     background-size: cover;
     height: 500px;
