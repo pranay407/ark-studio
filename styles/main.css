@@ -66,9 +66,18 @@ body{
     font-size: 20px;
     margin-bottom: 70px;
 }
-
-
-
+#nav_item_1{
+    color: black;
+}
+#nav_item_2{
+    color: black;
+}
+#nav_item_3{
+    color: black;
+}
+#nav_item_4{
+    color: black;
+}
 .cta{
     /* margin-top: 1000px; */
     position: absolute;
